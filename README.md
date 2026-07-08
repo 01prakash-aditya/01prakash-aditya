@@ -165,16 +165,9 @@ Autonomous 2D driving agent trained with ray-casting sensor simulation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=01prakash-aditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=01prakash-aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01prakash-aditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-
 </div>
-
-> **Note:** These stat cards call the shared public `github-readme-stats.vercel.app` instance, which is well known for hitting GitHub's API rate limit and going down during traffic spikes — that's what caused the broken-image / "Unable to render" errors, not anything on your end. For reliable, always-up cards, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free Vercel instance (5-minute one-click deploy with your own GitHub token), then swap the domain above for yours. The streak card above now points to the maintained `streak-stats.demolab.com` domain — the old `herokuapp.com` link is permanently dead since Heroku discontinued free dynos.
-
----
 
 <div align="center">
 
