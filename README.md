@@ -35,7 +35,7 @@ current: [
 fun_fact: "I make trading strategies by day and stress-test distributed systems by night ⚡"
 ```
 
-- 🔭 Currently building a **distributed benchmarking platform** sustaining **1,000+ TPS** for the IICPC Summer Hackathon '26
+- 🔭 Built a **distributed benchmarking platform** sustaining **1,000+ TPS** for the IICPC Summer Hackathon '26, with a A grade review in top 20 teams
 - 💹 Previously researched **300+ quantitative alphas** across **150+ alternative datasets** at **WorldQuant (Brain)**
 - 🚀 Shipped production backend features at **Y Combinator (AlgoUniversity S21)**, cutting API latency by **30%**
 - 🏆 Global Rank **2 / 34,000+** in the International Quant Championship 2024
@@ -140,18 +140,12 @@ Autonomous 2D driving agent trained with ray-casting sensor simulation.
 
 ### 💼 Experience Timeline
 
-```mermaid
-timeline
-    title Career & Research Journey
-    2024 : WorldQuant (Brain) — Research Consultant
-         : 300+ alphas, Sharpe > 5, 20%+ returns
-    2025 : Y Combinator (AlgoUniversity S21) — SWE Intern
-         : 30% lower latency, sub-150ms APIs
-    2025 : Inter IIT Tech Meet 14.0 — 9th Place
-         : Mean-reversion strategy, Sharpe 2.04
-    2026 : Distributed Benchmarking Platform
-         : 1,000+ TPS sandboxed trading engine
-```
+<table>
+<tr><td width="90"><b>2024</b></td><td>🧠 <b>WorldQuant (Brain)</b> — Research Consultant<br/><sub>300+ alphas · Sharpe > 5 · 20%+ returns</sub></td></tr>
+<tr><td><b>2025</b></td><td>🚀 <b>Y Combinator (AlgoUniversity S21)</b> — SWE Intern<br/><sub>30% lower latency · sub-150ms APIs</sub></td></tr>
+<tr><td><b>2025</b></td><td>🏅 <b>Inter IIT Tech Meet 14.0</b> — 9th Place<br/><sub>Mean-reversion strategy · Sharpe 2.04</sub></td></tr>
+<tr><td><b>2026</b></td><td>⚡ <b>Distributed Benchmarking Platform</b><br/><sub>1,000+ TPS sandboxed trading engine</sub></td></tr>
+</table>
 
 ---
 
@@ -163,6 +157,7 @@ timeline
 | 🎯 **Inter IIT Tech Meet 14.0** | 9th Place — Sharpe 2.04, Calmar 4.38, <10% max drawdown |
 | 📈 **IMC Prosperity 4** | India Rank 121 / 3,500+ teams — Global Rank 109 (Algo Trading) |
 | 🧩 **Competitive Programming** | 550+ DSA problems solved · CodeChef 1741 (3★) · Codeforces 1495 (Specialist) |
+| 🎓 **JEE 2023** | 99.2 percentile (Mains) · Top 1.2% (Advanced) |
 
 ---
 
@@ -171,11 +166,13 @@ timeline
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=01prakash-aditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01prakash-aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=01prakash-aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01prakash-aditya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 
 </div>
+
+> **Note:** These stat cards call the shared public `github-readme-stats.vercel.app` instance, which is well known for hitting GitHub's API rate limit and going down during traffic spikes — that's what caused the broken-image / "Unable to render" errors, not anything on your end. For reliable, always-up cards, fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free Vercel instance (5-minute one-click deploy with your own GitHub token), then swap the domain above for yours. The streak card above now points to the maintained `streak-stats.demolab.com` domain — the old `herokuapp.com` link is permanently dead since Heroku discontinued free dynos.
 
 ---
 
